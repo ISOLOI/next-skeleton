@@ -11,3 +11,11 @@ tags:
     name: mdx
   - slug: markdown
     name: markdown
+  - slug: interview
+    name: interview
+  - slug: soft-skills
+    name: soft-skills
+  - slug: how-to
+    name: how-to
+  - slug: personal
+    name: personal
