@@ -1,7 +1,7 @@
 {
   "base_url": "https://brave-boyd-e08027.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "site_title": "Larsiny",
+  "site_description": "Larsiny, taking back the value stolen with every offer",
   "site_keywords": [
     {
       "keyword": "Next.js"
@@ -14,6 +14,6 @@
     }
   ],
   "posts_per_page": 5,
-  "twitter_account": "@devnamednick",
-  "github_account": "ISOLOI"
+  "twitter_account": "@musthaveskill",
+  "github_account": "musthaveskill"
 }
